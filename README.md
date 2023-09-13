@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Sr. Software Engineer
-- 🌱 I’m currently learning on Ethical Hacker v12
+- 🔭 I’m currently working as Cybersecurity Engineer
+- 🌱 I’m currently learning on CEH & CISSP
 - 💬 Ask me about my experience and would love to share with you
 - 📫 How to reach me: xambitt@gmail.com
 
