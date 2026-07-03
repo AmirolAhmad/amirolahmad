@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Cybersecurity Engineer
-- 🏫 Master Student in Cyber Security (UKM)
+- 🏫 Master in Cyber Security (UKM)
 - 🌱 CEH & CISSP Certificate Holder
 - 💬 Ask me about my experience and would love to share with you
 - 📫 How to reach me: [xambitt@gmail.com](mailto:xambitt@gmail.com)
